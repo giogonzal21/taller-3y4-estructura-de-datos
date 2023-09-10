@@ -1,0 +1,23 @@
+El lenguaje usado fue Python
+
+Busqueda-palabras 0.0 segundos
+
+El tiempo de ejecución de 0.0 segundos, es porque el código es lo suficientemente rápido como para ejecutarse en un tiempo insignificante en este computador, dado el tamaño de los datos y las operaciones realizadas. Las operaciones de búsqueda en el índice y el procesamiento de palabras pueden ser eficientes en esta configuración de hardware.
+
+La complejidad espacial en el almacenamiento de documentos es de O(n). En el peor de los caso es de  O(n*m) en la contrucción del indice.
+
+Contador-de-numeros 0.02544426918029785 segundos
+
+El tiempo de ejecución de aproximadamente 0.029 segundos, es un tiempo muy corto. Esto sugiere que el código es altamente eficiente y puede procesar y contar las palabras en los documentos proporcionados en un tiempo muy rápido en este computador.
+
+Almacenamiento de documentos - La complejidad espacial de esto es O(n).
+
+Construcción de la lista de palabras - La complejidad espacial de esto es O(L).
+
+División de texto en palabras - La complejidad espacial es O(L).
+
+Conteo de palabras - La complejidad espacial de esto es O(W).
+
+Ordenamiento de palabras - La complejidad espacial de esto es O(W).
+
+Impresión de palabras - La complejidad espacial para esta parte es O(1).
